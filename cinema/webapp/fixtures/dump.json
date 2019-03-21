@@ -1,0 +1,53 @@
+[
+{
+  "model": "webapp.movie",
+  "pk": 1,
+  "fields": {
+    "name": "\u041c\u0441\u0442\u0438\u0442\u0435\u043b\u0438: \u0412\u043e\u0439\u043d\u0430 \u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0441\u0442\u0438",
+    "description": "\u0424\u0438\u043b\u044c\u043c \u043f\u043e \u043a\u043e\u043c\u0438\u043a\u0441\u0430\u043c Marvel.",
+    "poster": "posters/Avengers_Infinity_War_poster.jpg",
+    "release_date": "2019-02-28",
+    "finish_date": null
+  }
+},
+{
+  "model": "webapp.movie",
+  "pk": 2,
+  "fields": {
+    "name": "\u0411\u044d\u0442\u043c\u0435\u043d",
+    "description": "",
+    "poster": "posters/django_architecture.png",
+    "release_date": "2019-02-28",
+    "finish_date": null
+  }
+},
+{
+  "model": "webapp.movie",
+  "pk": 3,
+  "fields": {
+    "name": "\u041c\u0430\u0442\u0440\u0438\u0446\u0430",
+    "description": "\u041a\u0440\u0443\u0442\u043e\u0439 \u0444\u0438\u043b\u044c\u043c.",
+    "poster": "posters/\u0421\u043d\u0438\u043c\u043e\u043a_\u044d\u043a\u0440\u0430\u043d\u0430_\u043e\u0442_2019-02-28_19-20-12.png",
+    "release_date": "2019-02-19",
+    "finish_date": null
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$120000$hdAsnWuKGFBf$fC0JDW2FxcMPnz0V3TuSoPEClCSbvJUVbQzW3PivWwE=",
+    "last_login": "2019-02-28T11:55:03.357Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-02-25T12:20:20.260Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
